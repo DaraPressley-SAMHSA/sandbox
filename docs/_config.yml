@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 author: dara
 site.url: https://darapressley-samhsa.github.io/sandbox/
 Title: My Sandbox
+base.url: "/sandbox/"
